@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TamRice</string>
+    <string name="title_activity_login_and_register_screen">LoginAndRegisterScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_cart_screen">CartScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_order_screen">OrderScreen</string>
+</resources>
